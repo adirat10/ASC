@@ -1,0 +1,7 @@
+C:\Users\ADYTZU\Documents\11_08\bin\Debug\11_08.exe.config
+C:\Users\ADYTZU\Documents\11_08\bin\Debug\11_08.exe
+C:\Users\ADYTZU\Documents\11_08\bin\Debug\11_08.pdb
+C:\Users\ADYTZU\Documents\11_08\obj\Debug\11_08.csprojAssemblyReference.cache
+C:\Users\ADYTZU\Documents\11_08\obj\Debug\11_08.exe
+C:\Users\ADYTZU\Documents\11_08\obj\Debug\11_08.pdb
+C:\Users\ADYTZU\Documents\11_08\bin\Debug\pozmax.in

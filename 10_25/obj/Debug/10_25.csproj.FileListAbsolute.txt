@@ -1,0 +1,6 @@
+C:\Users\ADYTZU\Documents\10_25\bin\Debug\10_25.exe.config
+C:\Users\ADYTZU\Documents\10_25\bin\Debug\10_25.exe
+C:\Users\ADYTZU\Documents\10_25\bin\Debug\10_25.pdb
+C:\Users\ADYTZU\Documents\10_25\obj\Debug\10_25.csprojAssemblyReference.cache
+C:\Users\ADYTZU\Documents\10_25\obj\Debug\10_25.exe
+C:\Users\ADYTZU\Documents\10_25\obj\Debug\10_25.pdb
